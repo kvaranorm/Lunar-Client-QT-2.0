@@ -1,5 +1,6 @@
 # FAQ
 **Q: Can I be banned for using this?**
+
 A: Lets break this into 2 types of bans:
 
 - Lunar: While LCQT is theoretically detectable on lunars end, as of right now they do not issue client bans.

@@ -12,14 +12,14 @@ A:
 - Cracked Account: Allows Cracked Accounts to be used.
 - FPS Spoof: Spoof your FPS.
 - Freelook: Re-enables Freelook and AutoTextHotkey on servers.
--NoHitDelay: Removes delay between hits.
--Debug: Enables "Staff" Mods (Currently only X-Ray).
+- NoHitDelay: Removes delay between hits.
+- Debug: Enables "Staff" Mods (Currently only X-Ray).
 
 **Q: Why isn't cosmetics working on a cracked account?**
 
 A: Because of the way the cosmetics unlocker is implemented you have to be connected to lunars servers for it to work.
 For obvious reasons lunars websocket server does not allow cracked accounts.
-Note: Premium users on cracked servers, this is applicable to you as well.
+***Note: Premium users on cracked servers, this is applicable to you as well.***
 
 **Q: Why isn't my JRE working under Custom JVM?**
 

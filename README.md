@@ -31,10 +31,12 @@ Note: As always, use this at YOUR OWN RISK, I am not responsible for any damages
 # Installation
 
 **Windows**
+
 Simply download and run the setup executable here.
 If you prefer a portable version, download the zip.
 
 **Arch Linux**
+
 Use the AUR package: lunar-client-qt2.
 
 **macOS/Linux**

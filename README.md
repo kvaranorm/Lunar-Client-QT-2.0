@@ -1,5 +1,5 @@
 # FAQ
-Q: Can I be banned for using this?
+**Q: Can I be banned for using this?**
 A: Lets break this into 2 types of bans:
 
 - Lunar: While LCQT is theoretically detectable on lunars end, as of right now they do not issue client bans.
@@ -28,21 +28,22 @@ You must use forward slashes (/) or double backslashes (\) in your path.
 
 Note: As always, use this at YOUR OWN RISK, I am not responsible for any damages that may occur.
 
-Installation
-Windows
+# Installation
+
+**Windows**
 Simply download and run the setup executable here.
 If you prefer a portable version, download the zip.
 
-Arch Linux
+**Arch Linux**
 Use the AUR package: lunar-client-qt2.
 
-macOS/Linux
+**macOS/Linux**
 If you are using Linux, be sure to have the Lunar Client-X.AppImage renamed to lunarclient in /usr/bin/. Alternatively, run lcqt2 with Lunar Client Qt ~/path/to/lunar/appimage.
 
-Download the file: Linux or macOS.
-Extract it anywhere (tar -xf os-portable.tar.gz)
-Run the Lunar Client Qt executable
-IMPORTANT: All 3 files which where inside the tar need to stay together.
+1. Download the file: Linux or macOS.
+2. Extract it anywhere (tar -xf os-portable.tar.gz)
+3. Run the Lunar Client Qt executable
+> IMPORTANT: All 3 files which where inside the tar need to stay together.
 You are allowed to move all 3 together, you're also allowed to create symlinks.
 
 Building

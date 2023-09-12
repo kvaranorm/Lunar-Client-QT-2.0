@@ -38,7 +38,8 @@ If you prefer a portable version, download the zip.
 Use the AUR package: lunar-client-qt2.
 
 **macOS/Linux**
-If you are using Linux, be sure to have the Lunar Client-X.AppImage renamed to lunarclient in /usr/bin/. Alternatively, run lcqt2 with Lunar Client Qt ~/path/to/lunar/appimage.
+
+> If you are using Linux, be sure to have the Lunar Client-X.AppImage renamed to lunarclient in /usr/bin/. Alternatively, run lcqt2 with Lunar Client Qt ~/path/to/lunar/appimage.
 
 1. Download the file: Linux or macOS.
 2. Extract it anywhere (tar -xf os-portable.tar.gz)

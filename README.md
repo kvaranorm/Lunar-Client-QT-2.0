@@ -15,14 +15,17 @@ A:
 -Debug: Enables "Staff" Mods (Currently only X-Ray).
 
 **Q: Why isn't cosmetics working on a cracked account?**
+
 A: Because of the way the cosmetics unlocker is implemented you have to be connected to lunars servers for it to work.
 For obvious reasons lunars websocket server does not allow cracked accounts.
 Note: Premium users on cracked servers, this is applicable to you as well.
 
-Q: Why isn't my JRE working under Custom JVM?
+**Q: Why isn't my JRE working under Custom JVM?**
+
 A: Your JRE/JDK needs to be Java 17.
 
-Q: How do I add a java agent?
+**Q: How do I add a java agent?**
+
 A: Append the following to your JVM Arguments in Settings: -javaagent:/path/to/.jar
 You must use forward slashes (/) or double backslashes (\) in your path.
 

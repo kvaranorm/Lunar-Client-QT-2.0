@@ -19,6 +19,7 @@ A:
 
 A: Because of the way the cosmetics unlocker is implemented you have to be connected to lunars servers for it to work.
 For obvious reasons lunars websocket server does not allow cracked accounts.
+
 ***Note: Premium users on cracked servers, this is applicable to you as well.***
 
 **Q: Why isn't my JRE working under Custom JVM?**
